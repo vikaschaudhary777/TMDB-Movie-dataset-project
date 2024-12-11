@@ -45,11 +45,11 @@ We might also catigorize profit column for better EDA
 Exploratory Data Analysis:
 After finishing our dataset cleaning, we endded up with a total of 10840 records and 10 columns. The dataset now has no duplicates nor null values, and the data types are consistant with suitable categorical variable to address our questions. We then perfomed some analytics and created some visualizations to answer our targeted questions.
 
-Q1: Do movies with high popularity achive high revenvue?
+## Q1: Do movies with high popularity achive high revenvue?
 More popular movies recieve way more revenue than the less popular movies.
 
-Q2: What are the most filmed genres in this whole dataset?
+## Q2: What are the most filmed genres in this whole dataset?
 Drama, Comedy and Action are the most three filmed genres in total of 10839 movies in our dataset.
 Drama genre alone is filmed 22.6% of the times on our dataset.
-Q3: Is there a correlation between a movie budget and its revenue?
+## Q3: Is there a correlation between a movie budget and its revenue?
 There is positive correlation between budget and revenue, indecating a relation between them with little outliers found.
