@@ -1,29 +1,29 @@
 # TMDB-Movie-dataset-project
-# Dataset Description:
-# This data set contains information about 10,000 movies extracted from TMDB. The dataset contains movies from 1960 to 2015. Including user ratings and revenue. Original data from Kaggle
+Dataset Description:
+This data set contains information about 10,000 movies extracted from TMDB. The dataset contains movies from 1960 to 2015. Including user ratings and revenue. Original data from Kaggle
 
 # Columns Descreption:
-# id, imdb_id: unique id or imdb id for each movie on TMDB
-# popularity: a metric used to measure the popularity of the movie.
-budget:the total budget of the moviein USD.
-revenue:the total revenue of the movie in USD.
-original_title: the original title of the movie.
-cast:the names of the cast of the movie separated by "|".
-homepage: the website of the movie (if it existed).
-director:name(s) of the director(s) of the movie (separated by "|" if there are more than one director).
-tagline:a catchphrase describing the movie.
-keywords: keywords related to the movie.
-overview:summary of the plot of the movie.
-runtime:total runtime of the movie in minutes.
-genres: genres of the movie separated by "|".
-production_companies:production compan(y/ies) of the movie.
-release_date:release date of the movie.
-vote_count:number of voters of te movie.
-vote_average:the average user rating of the movie
-release_year:release year of the movie (from 1960 to 2015)
-budget_adj:the total budget of the moviein USD in terms of 2010 dollars, accounting for inflation over time.
-revenue_adj:the total budget of the movie in USD in terms of 2010 dollars, accounting for inflation over time.
-Questions for Analysis:
+### id, imdb_id: unique id or imdb id for each movie on TMDB
+### popularity: a metric used to measure the popularity of the movie.
+### budget:the total budget of the moviein USD.
+### revenue:the total revenue of the movie in USD.
+### original_title: the original title of the movie.
+### cast:the names of the cast of the movie separated by "|".
+### homepage: the website of the movie (if it existed).
+### director:name(s) of the director(s) of the movie (separated by "|" if there are more than one director).
+### tagline:a catchphrase describing the movie.
+### keywords: keywords related to the movie.
+### overview:summary of the plot of the movie.
+### runtime:total runtime of the movie in minutes.
+### genres: genres of the movie separated by "|".
+### production_companies:production compan(y/ies) of the movie.
+### release_date:release date of the movie.
+### vote_count:number of voters of te movie.
+### vote_average:the average user rating of the movie
+### release_year:release year of the movie (from 1960 to 2015)
+### budget_adj:the total budget of the moviein USD in terms of 2010 dollars, accounting for inflation over time.
+### revenue_adj:the total budget of the movie in USD in terms of 2010 dollars, accounting for inflation over time.
+# Questions for Analysis:
 Do movies with high popularity achive high revenvue?
 What are the most filmed genres in this whole dataset?
 Is there a correlation between a movie budget and its revenue?
