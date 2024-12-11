@@ -1,10 +1,10 @@
 # TMDB-Movie-dataset-project
-Dataset Description:
-This data set contains information about 10,000 movies extracted from TMDB. The dataset contains movies from 1960 to 2015. Including user ratings and revenue. Original data from Kaggle
+# Dataset Description:
+# This data set contains information about 10,000 movies extracted from TMDB. The dataset contains movies from 1960 to 2015. Including user ratings and revenue. Original data from Kaggle
 
-Columns Descreption:
-id, imdb_id: unique id or imdb id for each movie on TMDB
-popularity: a metric used to measure the popularity of the movie.
+# Columns Descreption:
+# id, imdb_id: unique id or imdb id for each movie on TMDB
+# popularity: a metric used to measure the popularity of the movie.
 budget:the total budget of the moviein USD.
 revenue:the total revenue of the movie in USD.
 original_title: the original title of the movie.
